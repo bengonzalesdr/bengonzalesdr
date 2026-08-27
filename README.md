@@ -14,8 +14,9 @@ Python      → scripting & tooling
 C# / .NET   → also in the stack
 Rust        → learning next
 
-ben@github ~ $ uname -desktop
-Hyprland / Wayland / Linux
+ben@arch ~ $ uname -a
+Arch Linux · Omarchy base · Hyprland / Wayland
+re-opinionated until it feels like mine.
 ```
 
 ```console
@@ -30,12 +31,12 @@ ben@homelab ~ $ systemctl status homelab
 ```
 
 ```console
-ben@github ~ $ cat /etc/motd
+ben@arch ~ $ cat /etc/motd
 I like building things that are useful, fast, understandable,
 and a little more ambitious than they needed to be.
 
 Most days you'll find me somewhere between Java, the web,
-a terminal, and whatever I'm breaking in the lab.
+an Arch terminal, and whatever I'm breaking in the lab.
 
-ben@github ~ $ _
+ben@arch ~ $ _
 ```
