@@ -64,13 +64,13 @@ A production service-business website with ongoing improvements.
 ### 03 — tools I actually reach for
 
 <p align="left">
-  <img height="26" width="26" src="https://cdn.simpleicons.org/intellijidea/b8b8b8" alt="IntelliJ IDEA" />&nbsp; **IntelliJ IDEA** — Java
+  <img height="26" width="26" src="https://cdn.simpleicons.org/intellijidea/b8b8b8" alt="IntelliJ IDEA" />&nbsp; <strong>IntelliJ IDEA</strong> — Java
   <br><br>
-  <img height="26" width="26" src="https://cdn.simpleicons.org/visualstudio/b8b8b8" alt="Visual Studio" />&nbsp; **Visual Studio** — C# / .NET
+  <img height="26" width="26" src="https://cdn.simpleicons.org/visualstudio/b8b8b8" alt="Visual Studio" />&nbsp; <strong>Visual Studio</strong> — C# / .NET
   <br><br>
-  <img height="26" width="26" src="https://cdn.simpleicons.org/datagrip/b8b8b8" alt="DataGrip" />&nbsp; **DataGrip** — SQL / MySQL
+  <img height="26" width="26" src="https://cdn.simpleicons.org/datagrip/b8b8b8" alt="DataGrip" />&nbsp; <strong>DataGrip</strong> — SQL / MySQL
   <br><br>
-  <img height="26" width="26" src="https://cdn.simpleicons.org/visualstudiocode/b8b8b8" alt="Visual Studio Code" />&nbsp; **VS Code** — web work, scripting, quick edits
+  <img height="26" width="26" src="https://cdn.simpleicons.org/visualstudiocode/b8b8b8" alt="Visual Studio Code" />&nbsp; <strong>VS Code</strong> — web work, scripting, quick edits
 </p>
 
 ---
