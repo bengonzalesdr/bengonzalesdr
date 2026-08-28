@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="460" viewBox="0 0 1200 460" role="img" aria-labelledby="title desc">
+  <title id="title">Selected production transmissions</title>
+  <desc id="desc">A monochrome terminal-style project panel showing selected production web work.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#07090b"/><stop offset="1" stop-color="#0d1013"/></linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="160%"><feDropShadow dx="0" dy="16" stdDeviation="20" flood-color="#000" flood-opacity=".62"/></filter>
+    <pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="1" fill="#fff" opacity=".025"/></pattern>
+  </defs>
+  <rect width="1200" height="460" rx="22" fill="url(#bg)"/>
+  <rect x="70" y="28" width="1060" height="404" rx="18" fill="#090b0e" stroke="#343a40" stroke-width="1.5" filter="url(#shadow)"/>
+  <rect x="70" y="28" width="1060" height="46" rx="18" fill="#121519"/><rect x="70" y="52" width="1060" height="22" fill="#121519"/>
+  <circle cx="96" cy="51" r="5" fill="#5d646d"/><circle cx="115" cy="51" r="5" fill="#8b949e"/><circle cx="134" cy="51" r="5" fill="#c9d1d9"/>
+
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, Liberation Mono, monospace">
+    <text x="600" y="57" text-anchor="middle" font-size="13" fill="#8b949e">kitty — ben@signal:~/transmissions</text>
+    <text x="108" y="112" font-size="16" fill="#b6bec8">ben@signal ~/transmissions $ ls -la --production</text>
+    <text x="108" y="148" font-size="25" font-weight="800" fill="#f0f3f6">SELECTED TRANSMISSIONS</text>
+    <text x="108" y="174" font-size="13" fill="#6e7681" letter-spacing="1.5">PRIVATE SOURCE / PUBLIC OUTPUT / REAL USERS</text>
+
+    <text x="108" y="215" font-size="12" fill="#565e68">STATUS</text><text x="198" y="215" font-size="12" fill="#565e68">TARGET</text><text x="466" y="215" font-size="12" fill="#565e68">ROLE / SYSTEM</text><text x="1018" y="215" text-anchor="end" font-size="12" fill="#565e68">CHANNEL</text>
+    <path d="M108 226H1092" stroke="#30363d"/>
+
+    <circle cx="126" cy="254" r="5" fill="#d0d7de"><animate attributeName="opacity" values="1;.35;1" dur="2.2s" repeatCount="indefinite"/></circle>
+    <text x="150" y="260" font-size="13" fill="#8b949e">LIVE</text><text x="198" y="260" font-size="15" font-weight="700" fill="#e6edf3">SYNISTAR</text><text x="466" y="260" font-size="14" fill="#a8b0ba">production web systems / client infrastructure</text><text x="1018" y="260" text-anchor="end" font-size="13" fill="#6e7681">synistar.com</text>
+
+    <circle cx="126" cy="296" r="5" fill="#c9d1d9"/>
+    <text x="150" y="302" font-size="13" fill="#8b949e">LIVE</text><text x="198" y="302" font-size="15" font-weight="700" fill="#e6edf3">NEWSBUDDY</text><text x="466" y="302" font-size="14" fill="#a8b0ba">publishing automation / content operations</text><text x="1018" y="302" text-anchor="end" font-size="13" fill="#6e7681">newsbuddy.org</text>
+
+    <circle cx="126" cy="338" r="5" fill="#c9d1d9"/>
+    <text x="150" y="344" font-size="13" fill="#8b949e">LIVE</text><text x="198" y="344" font-size="15" font-weight="700" fill="#e6edf3">CATR INC</text><text x="466" y="344" font-size="14" fill="#a8b0ba">interactive nonprofit web experience / admin tooling</text><text x="1018" y="344" text-anchor="end" font-size="13" fill="#6e7681">catrcat.com</text>
+
+    <circle cx="126" cy="380" r="5" fill="#c9d1d9"/>
+    <text x="150" y="386" font-size="13" fill="#8b949e">LIVE</text><text x="198" y="386" font-size="15" font-weight="700" fill="#e6edf3">LEX MAJESTIC</text><text x="466" y="386" font-size="14" fill="#a8b0ba">theater platform / showtimes / admin / payments</text><text x="1018" y="386" text-anchor="end" font-size="13" fill="#6e7681">lexmajestic.org</text>
+
+    <text x="108" y="418" font-size="12" fill="#565e68">+ more client systems, private repositories, experiments, and rebuilds.</text>
+  </g>
+  <rect width="1200" height="460" rx="22" fill="url(#scan)"/>
+</svg>
