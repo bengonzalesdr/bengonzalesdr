@@ -1,11 +1,10 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=27&duration=2500&pause=1100&color=8B949E&center=true&vCenter=true&width=760&height=70&lines=hello%2C+i%27m+benjamin.;hola%2C+soy+benjamin.;web+engineer+%2F%2F+software+developer.;welcome+to+my+github_." alt="Animated greeting" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=760&height=70&lines=hello%2C+i%27m+benjamin.;hola%2C+soy+benjamin.;web+engineer+%2F%2F+software+developer.;welcome+to+my+github_." alt="Animated greeting" />
 
 # BENJAMIN GONZALES
 
-**Web Engineer // Software Developer**
-
+**Web Engineer // Software Developer**  
 `Nebraska → Portland`
 
 [GitHub](https://github.com/bengonzalesdr) · [LinkedIn](https://www.linkedin.com/in/bengdr/) · [Synistar](https://synistar.com) · [dot.cards](https://dot.cards/bengonzalesdr)
@@ -13,169 +12,178 @@
 </div>
 
 ```text
-benjamin@github
-├─ work      web engineering / Synistar
-├─ studies   CIT - Apps Dev / Computer Science + Math
-├─ focus     software / web / data / systems
-└─ language  English / Español
+╭────────────────────────────────────────────────────────────────────╮
+│ benjamin@github:~                                                   │
+├────────────────────────────────────────────────────────────────────┤
+│ role      web engineer // software developer                        │
+│ work      Synistar                                                   │
+│ studies   CIT - Apps Dev // Computer Science + Mathematics          │
+│ focus     application // web // data // systems                     │
+│ language  English // Español                                        │
+│ status    building                                                   │
+╰────────────────────────────────────────────────────────────────────╯
 ```
 
-<p align="center">┈┈┈┈┈┈┈┈┈┈ ◇ ┈┈┈┈┈┈┈┈┈┈</p>
+# ├── ABOUT ME
 
-# ╱ ABOUT ME
+`$ whoami`
 
-Hi, I'm **Benjamin Gonzales** — a web engineer and software developer from Nebraska, currently studying **CIT - Applications Development** at Southeast Community College and **Computer Science + Mathematics** at Portland State University in Portland.
+Hi, I'm **Benjamin Gonzales** — a web engineer and software developer with a background rooted in Nebraska and a growing connection to Portland.
 
-I build real client-facing web systems through **Synistar** and spend a lot of my time working across Java, C#/.NET, databases, web technologies, Linux, and the infrastructure underneath modern software.
+I build and maintain real client-facing web systems through **Synistar**, while studying **CIT - Applications Development** at Southeast Community College and **Computer Science + Mathematics** at Portland State University.
 
-I care about software that is useful, maintainable, understandable, and built around how people actually use it. I work in **English and Spanish**, and I keep the more personal parts of my life off GitHub — this profile is about what I build, what I use, and what I'm learning next.
+My work sits between application development, web engineering, databases, Linux, infrastructure, and the practical details that determine whether software remains useful after launch. Java is a major part of my development work, but I regularly work across C#/.NET, Python, SQL, PHP, JavaScript, and Linux-based tooling as well.
+
+I work in **English and Spanish**. Beyond that, I intentionally keep the more personal parts of my life off GitHub — this profile is about what I build, what I use, and what I'm learning next.
+
+`└─ identity loaded`
 
 ---
 
-# ╱ EDUCATION
+# ├── EDUCATION
+
+`$ cat education.conf`
 
 <table>
 <tr>
 <td width="50%" align="center" valign="middle">
 <br>
-<code>┌─ SCC // CIT ─┐</code>
+<code>╭─ SCC // CIT ─╮</code>
 <br><br>
 <a href="https://www.southeast.edu/">
-<img src="https://www.google.com/s2/favicons?sz=128&domain_url=https://www.southeast.edu/" width="72" height="72" alt="Southeast Community College logo" />
+<img src="https://nativecoalition.unl.edu/sites/unl.edu.ianr.extension.native-american-coalition/files/styles/4_3_720x540/public/media/image/SCC.png?itok=MoKAu6nE" height="62" alt="Southeast Community College" />
 </a>
 <br><br>
 <strong>Southeast Community College</strong>
 <br>
-<sub>CIT - Apps Dev</sub>
+<sub><strong>CIT - Apps Dev</strong></sub>
 <br><br>
 <code>Lincoln, Nebraska</code>
+<br><br>
+<code>╰───────────────╯</code>
 <br><br>
 </td>
 <td width="50%" align="center" valign="middle">
 <br>
-<code>┌─ PSU // CS + MATH ─┐</code>
+<code>╭─ PSU // CS + MATH ─╮</code>
 <br><br>
 <a href="https://www.pdx.edu/">
-<img src="https://www.google.com/s2/favicons?sz=128&domain_url=https://www.pdx.edu/" width="72" height="72" alt="Portland State University logo" />
+<img src="https://d2lk14jtvqry1q.cloudfront.net/media/large_Portland_State_University_Portland_04d2e3aadd_2a51da0c8e.png" height="62" alt="Portland State University" />
 </a>
 <br><br>
 <strong>Portland State University</strong>
 <br>
-<sub>Computer Science + Mathematics</sub>
+<sub><strong>Computer Science + Mathematics</strong></sub>
 <br><br>
 <code>Portland, Oregon</code>
+<br><br>
+<code>╰────────────────────╯</code>
 <br><br>
 </td>
 </tr>
 </table>
 
-<p align="center"><code>SCC ───────────────→ PSU</code></p>
+<p align="center"><code>SCC ─────────────────────────────→ PSU</code></p>
 
 ---
 
-# ╱ TECHNICAL STACK
+# ├── TECHNICAL STACK
+
+`$ ls -R stack/`
 
 <table>
 <tr>
-<td><strong>APPLICATION</strong></td>
+<td width="20%"><strong>APPLICATION</strong></td>
 <td>
-<img height="26" width="26" src="https://cdn.simpleicons.org/openjdk/8b949e" alt="Java" title="Java" />&nbsp; Java &nbsp;&nbsp;·&nbsp;&nbsp;
-<img height="26" width="26" src="https://cdn.simpleicons.org/dotnet/8b949e" alt=".NET" title="C# / .NET" />&nbsp; C# / .NET &nbsp;&nbsp;·&nbsp;&nbsp;
-<img height="26" width="26" src="https://cdn.simpleicons.org/python/8b949e" alt="Python" title="Python" />&nbsp; Python
+<img height="28" width="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" title="Java" />&nbsp; Java &nbsp;&nbsp;·&nbsp;&nbsp;
+<img height="28" width="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" title="C#" />&nbsp; C# / .NET &nbsp;&nbsp;·&nbsp;&nbsp;
+<img height="28" width="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" title="Python" />&nbsp; Python
 </td>
 </tr>
 <tr>
 <td><strong>WEB</strong></td>
 <td>
-<img height="26" width="26" src="https://cdn.simpleicons.org/html5/8b949e" alt="HTML5" title="HTML5" />&nbsp; HTML &nbsp;&nbsp;·&nbsp;&nbsp;
-<img height="26" width="26" src="https://cdn.simpleicons.org/css/8b949e" alt="CSS" title="CSS" />&nbsp; CSS &nbsp;&nbsp;·&nbsp;&nbsp;
-<img height="26" width="26" src="https://cdn.simpleicons.org/javascript/8b949e" alt="JavaScript" title="JavaScript" />&nbsp; JavaScript &nbsp;&nbsp;·&nbsp;&nbsp;
-<img height="26" width="26" src="https://cdn.simpleicons.org/php/8b949e" alt="PHP" title="PHP" />&nbsp; PHP
+<img height="28" width="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" title="HTML5" />&nbsp; HTML &nbsp;&nbsp;·&nbsp;&nbsp;
+<img height="28" width="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" title="CSS3" />&nbsp; CSS &nbsp;&nbsp;·&nbsp;&nbsp;
+<img height="28" width="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" />&nbsp; JavaScript &nbsp;&nbsp;·&nbsp;&nbsp;
+<img height="28" width="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" title="PHP" />&nbsp; PHP
 </td>
 </tr>
 <tr>
 <td><strong>DATA</strong></td>
 <td>
-<img height="26" width="26" src="https://cdn.simpleicons.org/mysql/8b949e" alt="MySQL" title="MySQL" />&nbsp; MySQL / SQL
+<img height="28" width="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL" />&nbsp; MySQL / SQL
 </td>
 </tr>
 <tr>
 <td><strong>SYSTEMS</strong></td>
 <td>
-<img height="26" width="26" src="https://cdn.simpleicons.org/linux/8b949e" alt="Linux" title="Linux" />&nbsp; Linux &nbsp;&nbsp;·&nbsp;&nbsp;
-<img height="26" width="26" src="https://cdn.simpleicons.org/archlinux/8b949e" alt="Arch Linux" title="Arch Linux" />&nbsp; Arch &nbsp;&nbsp;·&nbsp;&nbsp;
-<img height="26" width="26" src="https://cdn.simpleicons.org/gnubash/8b949e" alt="Bash" title="Bash" />&nbsp; Bash &nbsp;&nbsp;·&nbsp;&nbsp;
-<img height="26" width="26" src="https://cdn.simpleicons.org/git/8b949e" alt="Git" title="Git" />&nbsp; Git &nbsp;&nbsp;·&nbsp;&nbsp;
-<img height="26" width="26" src="https://cdn.simpleicons.org/docker/8b949e" alt="Docker" title="Docker" />&nbsp; Docker
+<img height="28" width="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" title="Linux" />&nbsp; Linux &nbsp;&nbsp;·&nbsp;&nbsp;
+<img height="28" width="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" title="Bash" />&nbsp; Bash &nbsp;&nbsp;·&nbsp;&nbsp;
+<img height="28" width="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" title="Git" />&nbsp; Git &nbsp;&nbsp;·&nbsp;&nbsp;
+<img height="28" width="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" title="Docker" />&nbsp; Docker
 </td>
 </tr>
 <tr>
 <td><strong>NEXT</strong></td>
 <td>
-<img height="26" width="26" src="https://cdn.simpleicons.org/rust/8b949e" alt="Rust" title="Rust" />&nbsp; Rust ↗
+<img height="28" width="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" alt="Rust" title="Rust" />&nbsp; Rust ↗
 </td>
 </tr>
 </table>
 
-<p align="right"><sub>Omarchy // Arch Linux // Hyprland // Wayland // Kitty</sub></p>
+```text
+systems/
+├─ Omarchy
+├─ Arch Linux
+├─ Hyprland
+├─ Wayland
+└─ Kitty
+```
 
 ---
 
-# ╱ IDE EXPERIENCE
+# ├── IDE EXPERIENCE
 
-<sub>DEVELOPMENT ENVIRONMENTS // WHAT I ACTUALLY USE</sub>
+`$ ./show-development-environments`
 
-### `JAVA / JVM`
+### `JAVA // JVM`
 
-<p>
-<img height="36" width="36" src="https://cdn.simpleicons.org/intellijidea/8b949e" alt="IntelliJ IDEA" />&nbsp;&nbsp;
-<strong>IntelliJ IDEA</strong> — primary Java environment
-</p>
+<img height="44" width="44" src="https://resources.jetbrains.com/storage/products/intellij-idea/img/meta/intellij-idea_logo_300x300.png" alt="IntelliJ IDEA" /> &nbsp; **IntelliJ IDEA** — primary Java environment
 
 ### `PYTHON`
 
-<p>
-<img height="36" width="36" src="https://cdn.simpleicons.org/pycharm/8b949e" alt="PyCharm" />&nbsp;&nbsp;
-<strong>PyCharm</strong> — Python development
-</p>
+<img height="44" width="44" src="https://resources.jetbrains.com/storage/products/pycharm/img/meta/pycharm_logo_300x300.png" alt="PyCharm" /> &nbsp; **PyCharm** — Python development
 
-### `WEB / JAVASCRIPT / TYPESCRIPT`
+### `WEB // JAVASCRIPT // TYPESCRIPT`
 
-<p>
-<img height="36" width="36" src="https://cdn.simpleicons.org/webstorm/8b949e" alt="WebStorm" />&nbsp;&nbsp;
-<strong>WebStorm</strong> — JavaScript / TypeScript / web projects
-<br><br>
-<img height="36" width="36" src="https://cdn.simpleicons.org/visualstudiocode/8b949e" alt="Visual Studio Code" />&nbsp;&nbsp;
-<strong>VS Code</strong> — web work / scripting / quick edits
-</p>
+<img height="44" width="44" src="https://resources.jetbrains.com/storage/products/webstorm/img/meta/webstorm_logo_300x300.png" alt="WebStorm" /> &nbsp; **WebStorm** — JavaScript / TypeScript / web projects  
+<br>
+<img height="44" width="44" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="Visual Studio Code" /> &nbsp; **VS Code** — web development / scripting / quick edits
 
-### `C# / .NET`
+### `C# // .NET`
 
-<p>
-<img height="36" width="36" src="https://cdn.simpleicons.org/rider/8b949e" alt="JetBrains Rider" />&nbsp;&nbsp;
-<strong>Rider</strong> — cross-platform .NET development
-<br><br>
-<img height="36" width="36" src="https://cdn.simpleicons.org/visualstudio/8b949e" alt="Visual Studio" />&nbsp;&nbsp;
-<strong>Visual Studio</strong> — C# / .NET development
-</p>
+<img height="44" width="44" src="https://resources.jetbrains.com/storage/products/rider/img/meta/rider_logo_300x300.png" alt="JetBrains Rider" /> &nbsp; **Rider** — cross-platform .NET development  
+<br>
+<img height="44" width="44" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-original.svg" alt="Visual Studio" /> &nbsp; **Visual Studio** — C# / .NET development
 
-### `DATABASES / SQL`
+### `DATABASES // SQL`
 
-<p>
-<img height="36" width="36" src="https://cdn.simpleicons.org/datagrip/8b949e" alt="DataGrip" />&nbsp;&nbsp;
-<strong>DataGrip</strong> — SQL / database development
-<br><br>
-<img height="36" width="36" src="https://cdn.simpleicons.org/mysql/8b949e" alt="MySQL Workbench" />&nbsp;&nbsp;
-<strong>MySQL Workbench</strong> — MySQL administration / coursework
-</p>
+<img height="44" width="44" src="https://resources.jetbrains.com/storage/products/datagrip/img/meta/datagrip_logo_300x300.png" alt="DataGrip" /> &nbsp; **DataGrip** — SQL / database development  
+<br>
+<img height="44" width="44" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL Workbench" /> &nbsp; **MySQL Workbench** — MySQL administration / coursework
+
+`└─ environments configured`
 
 ---
 
-# ╱ WEB ENGINEERING
+# ├── WEB ENGINEERING
+
+`$ cat work/synistar.md`
 
 <table>
 <tr>
-<td width="92" align="center" valign="middle">
+<td width="96" align="center" valign="middle">
 <a href="https://synistar.com">
 <img src="https://www.google.com/s2/favicons?sz=128&domain_url=https://synistar.com" width="64" height="64" alt="Synistar favicon" />
 </a>
@@ -188,29 +196,34 @@ I care about software that is useful, maintainable, understandable, and built ar
 </tr>
 </table>
 
-**Synistar** is a Nebraska-built web development company focused on custom websites and digital systems for small businesses. We build around the business instead of forcing every client into the same template — combining strategy, design, development, optimization, maintenance, automation, and long-term support.
+**Synistar** is a Nebraska-built web development company focused on custom websites and digital systems for small businesses and organizations.
 
-My work there spans the full lifecycle of a web project: discovery, architecture, UI/UX, front-end and back-end development, databases, integrations, hosting, client workflow, performance, deployment, maintenance, and the custom functionality a project actually needs.
+Rather than forcing every client into the same template, Synistar builds around the actual business: strategy, design, development, optimization, maintenance, automation, integrations, and long-term support.
+
+My work spans the full lifecycle of a web project — discovery, architecture, UI/UX, front-end and back-end development, databases, integrations, hosting, client workflow, performance, deployment, maintenance, and custom functionality.
 
 [Visit Synistar ↗](https://synistar.com) &nbsp;·&nbsp; [View the work ↗](https://synistar.com/our-work/)
 
 ---
 
-# ╱ UPCOMING REPOS
+# ├── UPCOMING REPOS
 
 ```text
-status // COMING SOON....
+repo.queue
+└─ status // COMING SOON....
 ```
 
 ---
 
-# ╱ CONTACT ME
+# ╰── CONTACT ME
 
-If you want to talk about software, web engineering, projects, or work, these are the best places to find me.
+`$ connect --benjamin`
+
+If you want to talk about **software, web engineering, projects, or work**, these are the best places to find me.
 
 <p>
-<a href="https://github.com/bengonzalesdr"><img height="30" width="30" src="https://cdn.simpleicons.org/github/8b949e" alt="GitHub" /></a>&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/bengdr/"><img height="30" width="30" src="https://cdn.simpleicons.org/linkedin/8b949e" alt="LinkedIn" /></a>
+<a href="https://github.com/bengonzalesdr"><img height="32" width="32" src="https://cdn.simpleicons.org/github/ffffff" alt="GitHub" /></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/bengdr/"><img height="32" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" /></a>
 </p>
 
 **GitHub** ─ [@bengonzalesdr](https://github.com/bengonzalesdr)  
@@ -218,6 +231,10 @@ If you want to talk about software, web engineering, projects, or work, these ar
 **Synistar** ─ [synistar.com](https://synistar.com)  
 **dot.cards** ─ [bengonzalesdr](https://dot.cards/bengonzalesdr)
 
-<br>
-
-<p align="center">╱╱╱ &nbsp; BUILD THINGS THAT HOLD UP. &nbsp; ╲╲╲</p>
+```text
+╭────────────────────────────────────────────────────────────────────╮
+│ session.end                                                        │
+│                                                                    │
+│ build things that hold up.                                         │
+└────────────────────────────────────────────────────────────────────╯
+```
