@@ -1,115 +1,133 @@
 <div align="center">
 
-# Benjamin Gonzales
+<img src="./assets/noir-header.svg" width="100%" alt="Benjamin Gonzales — Web Engineer, Software Developer, Linux Enthusiast" />
 
-### Web Engineer · Software Developer · Linux Enthusiast
+<br>
 
-<p>
-  <a href="https://github.com/bengonzalesdr"><img src="https://img.shields.io/badge/GitHub-bengonzalesdr-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://www.linkedin.com/in/bengdr/"><img src="https://img.shields.io/badge/LinkedIn-bengdr-242424?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://dot.cards/bengonzalesdr"><img src="https://img.shields.io/badge/dot.cards-bengonzalesdr-3a3a3a?style=for-the-badge&logoColor=white" alt="dot.cards" /></a>
-</p>
+<a href="https://github.com/bengonzalesdr"><kbd>GitHub ↗</kbd></a>&nbsp;
+<a href="https://www.linkedin.com/in/bengdr/"><kbd>LinkedIn ↗</kbd></a>&nbsp;
+<a href="https://dot.cards/bengonzalesdr"><kbd>dot.cards ↗</kbd></a>
 
-`Java first` · `Web focused` · `Arch daily` · `Home lab`
+<br><br>
+
+<sub><strong>JAVA</strong> &nbsp;·&nbsp; WEB DEVELOPMENT &nbsp;·&nbsp; LINUX &nbsp;·&nbsp; SYSTEMS</sub>
 
 </div>
 
----
+<br>
 
-## 👋 About
+<table>
+<tr>
+<td width="62%" valign="top">
 
-I build software for the web, spend a lot of time in Linux, and like understanding what is happening underneath the surface. **Java is my main language**, web development is my everyday workflow, and **Rust is what I want to learn next**.
+## 01 // PROFILE
 
----
+I build software for the web, spend a lot of time in Linux, and like understanding what is happening underneath the abstraction.
 
-## ⚙️ Stack
+**Java is my main language.** Web development is my everyday workflow, while Linux and the home lab are where I get closer to the systems underneath it all.
 
-### Languages
+</td>
+<td width="38%" valign="top">
 
-<p>
-  <img src="https://img.shields.io/badge/Java-111111?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/HTML5-1b1b1b?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-252525?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-303030?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/PHP-3b3b3b?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/Python-464646?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/C%23_%2F_.NET-515151?style=for-the-badge&logo=dotnet&logoColor=white" alt="C# and .NET" />
-  <img src="https://img.shields.io/badge/SQL_%2F_MySQL-5c5c5c?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL and MySQL" />
-</p>
+## STATUS
 
-### Systems & tooling
+**main** &nbsp; `Java`  
+**working in** &nbsp; `Web`  
+**daily system** &nbsp; `Arch Linux`  
+**learning next** &nbsp; `Rust`  
+**lab** &nbsp; `Proxmox + Docker`
 
-<p>
-  <img src="https://img.shields.io/badge/Arch_Linux-111111?style=for-the-badge&logo=archlinux&logoColor=white" alt="Arch Linux" />
-  <img src="https://img.shields.io/badge/Linux-1c1c1c?style=for-the-badge&logo=linux&logoColor=white" alt="Linux" />
-  <img src="https://img.shields.io/badge/Hyprland-282828?style=for-the-badge&logo=wayland&logoColor=white" alt="Hyprland" />
-  <img src="https://img.shields.io/badge/Wayland-343434?style=for-the-badge&logo=wayland&logoColor=white" alt="Wayland" />
-  <img src="https://img.shields.io/badge/Bash-404040?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
-  <img src="https://img.shields.io/badge/Git-4c4c4c?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Docker-585858?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-</p>
+</td>
+</tr>
+</table>
 
-> **Learning next:** 🦀 Rust
+<br>
 
----
+## 02 // TOOLBOX
 
-## 🛠️ Preferred IDEs
+### `LANGUAGES`
 
-| IDE | What I use it for |
-|---|---|
-| **IntelliJ IDEA** | ☕ Java |
-| **Visual Studio** | 🟣 C# / .NET |
-| **DataGrip** | 🗄️ SQL / MySQL |
-| **VS Code** | 🌐 HTML, CSS, JavaScript, PHP · 🐍 Python |
+`☕ Java` &nbsp; `HTML` &nbsp; `CSS` &nbsp; `JavaScript` &nbsp; `PHP` &nbsp; `Python` &nbsp; `C# / .NET` &nbsp; `SQL / MySQL`
 
-<p>
-  <a href="https://www.jetbrains.com/idea/"><img src="https://img.shields.io/badge/IntelliJ_IDEA-Java-111111?style=for-the-badge&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA — Java" /></a>
-  <a href="https://visualstudio.microsoft.com/"><img src="https://img.shields.io/badge/Visual_Studio-C%23_%2F_.NET-252525?style=for-the-badge&logo=visualstudio&logoColor=white" alt="Visual Studio — C# and .NET" /></a>
-  <a href="https://www.jetbrains.com/datagrip/"><img src="https://img.shields.io/badge/DataGrip-SQL_%2F_MySQL-3a3a3a?style=for-the-badge&logo=datagrip&logoColor=white" alt="DataGrip — SQL and MySQL" /></a>
-  <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/VS_Code-Web_%2B_Python-505050?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code — Web and Python" /></a>
-</p>
+### `SYSTEMS + TOOLS`
 
----
+`Arch Linux` &nbsp; `Linux` &nbsp; `Hyprland` &nbsp; `Wayland` &nbsp; `Kitty` &nbsp; `Bash` &nbsp; `Git` &nbsp; `GitHub` &nbsp; `Docker` &nbsp; `Proxmox`
 
-## 🖥️ Environment
+> **NEXT UP //** 🦀 `Rust`
+
+<br>
+
+## 03 // WORKSPACE
+
+<table>
+<tr>
+<th align="left">IDE</th>
+<th align="left">LANGUAGE / WORKFLOW</th>
+</tr>
+<tr>
+<td><a href="https://www.jetbrains.com/idea/"><strong>IntelliJ IDEA ↗</strong></a></td>
+<td><code>Java</code></td>
+</tr>
+<tr>
+<td><a href="https://visualstudio.microsoft.com/"><strong>Visual Studio ↗</strong></a></td>
+<td><code>C# / .NET</code></td>
+</tr>
+<tr>
+<td><a href="https://www.jetbrains.com/datagrip/"><strong>DataGrip ↗</strong></a></td>
+<td><code>SQL / MySQL</code></td>
+</tr>
+<tr>
+<td><a href="https://code.visualstudio.com/"><strong>VS Code ↗</strong></a></td>
+<td><code>HTML · CSS · JavaScript · PHP · Python</code></td>
+</tr>
+</table>
+
+<br>
+
+## 04 // SYSTEM
 
 ```text
-OS         Arch Linux
-Base       Omarchy — heavily re-opinionated
-Desktop    Hyprland / Wayland
-Terminal   Kitty
+╭─ environment ─────────────────────────────────────────────╮
+│ OS          Arch Linux                                   │
+│ BASE        Omarchy — heavily re-opinionated             │
+│ COMPOSITOR  Hyprland                                     │
+│ DISPLAY     Wayland                                      │
+│ TERMINAL    Kitty                                        │
+╰───────────────────────────────────────────────────────────╯
 ```
 
----
+My setup starts with good defaults and gets changed until it fits the way I actually work.
 
-## 🏠 Home Lab
+<br>
+
+## 05 // HOME LAB
 
 ```text
-Node       BeeLink mini PC
-Platform   Proxmox
-Workloads  Docker · Linux virtual machines
-Network    TCP/IP · DNS · DHCP
-Focus      virtualization · containers · networking · self-hosting
+╭─ lab ─────────────────────────────────────────────────────╮
+│ NODE        BeeLink mini PC                              │
+│ PLATFORM    Proxmox                                      │
+│ WORKLOADS   Docker · Linux virtual machines              │
+│ NETWORK     TCP/IP · DNS · DHCP                          │
+│ PURPOSE     virtualization · containers · networking     │
+╰───────────────────────────────────────────────────────────╯
 ```
 
-The lab is where I stop treating infrastructure like magic: **build it, break it, understand it, rebuild it better.**
+The lab is where I stop treating infrastructure like magic and start taking it apart until it makes sense.
 
----
-
-## 🚀 Current Focus
-
-- Deepening my **Java** skills
-- Building cleaner, more useful **web software**
-- Getting stronger with **Linux and systems**
-- Expanding the **home lab**
-- Learning **Rust** next
+<br>
 
 ---
 
 <div align="center">
 
-### `build → break → understand → rebuild better`
+### `BUILD → BREAK → UNDERSTAND → REBUILD BETTER`
 
-<sub>GitHub · Linux · software · systems</sub>
+<sub>software / web / linux / systems</sub>
+
+<br><br>
+
+<a href="https://github.com/bengonzalesdr"><kbd>github.com/bengonzalesdr</kbd></a>&nbsp;
+<a href="https://www.linkedin.com/in/bengdr/"><kbd>linkedin.com/in/bengdr</kbd></a>&nbsp;
+<a href="https://dot.cards/bengonzalesdr"><kbd>dot.cards/bengonzalesdr</kbd></a>
 
 </div>
