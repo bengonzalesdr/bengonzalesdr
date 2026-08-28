@@ -1,8 +1,12 @@
 <div align="center">
 
-<img src="./assets/pnw-header.svg" width="100%" alt="Benjamin Gonzales — Web Engineer, Software Developer, Linux" />
+# Benjamin Gonzales
 
-<br>
+### *Web Engineer · Software Developer · Linux Enthusiast*
+
+<sub>JAVA · WEB · LINUX · SYSTEMS</sub>
+
+<br><br>
 
 <a href="https://github.com/bengonzalesdr"><img src="https://img.shields.io/badge/GitHub-bengonzalesdr-0b0b0b?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 <a href="https://www.linkedin.com/in/bengdr/"><img src="https://img.shields.io/badge/LinkedIn-bengdr-262626?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
