@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="220" viewBox="0 0 1200 220" role="img" aria-labelledby="title desc">
+  <title id="title">Preferred IDEs</title>
+  <desc id="desc">A custom Kitty-style profile panel introducing Benjamin Gonzales' preferred IDEs.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#080808"/><stop offset="1" stop-color="#111111"/></linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="160%"><feDropShadow dx="0" dy="14" stdDeviation="18" flood-color="#000" flood-opacity="0.65"/></filter>
+  </defs>
+  <rect width="1200" height="220" rx="20" fill="url(#bg)"/>
+  <rect x="80" y="28" width="1040" height="164" rx="18" fill="#101010" stroke="#3b3b3b" stroke-width="1.5" filter="url(#shadow)"/>
+  <rect x="80" y="28" width="1040" height="44" rx="18" fill="#181818"/><rect x="80" y="52" width="1040" height="20" fill="#181818"/>
+  <circle cx="106" cy="50" r="5.5" fill="#666"/><circle cx="126" cy="50" r="5.5" fill="#8c8c8c"/><circle cx="146" cy="50" r="5.5" fill="#bdbdbd"/>
+  <text x="600" y="56" text-anchor="middle" font-family="JetBrainsMono Nerd Font, JetBrains Mono, monospace" font-size="14" fill="#929292">kitty — ben@arch:~/ide</text>
+  <g font-family="JetBrainsMono Nerd Font, JetBrains Mono, monospace">
+    <text x="118" y="116" font-size="28" font-weight="700" fill="#f4f4f4">💻 Preferred IDEs</text>
+    <text x="118" y="152" font-size="18" fill="#aaaaaa">Different tools for different parts of the stack — click an IDE below to open it.</text>
+    <text x="118" y="180" font-size="16" fill="#747474">Java → IntelliJ IDEA   ·   C#/.NET → Visual Studio   ·   Web + Python → VS Code</text>
+  </g>
+</svg>
