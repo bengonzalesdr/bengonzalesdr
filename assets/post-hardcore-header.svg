@@ -1,0 +1,86 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Benjamin Gonzales — developer profile</title>
+  <desc id="desc">A monochrome post-hardcore and zine-inspired profile banner with distressed paper, bold typography, and subtle crimson accents.</desc>
+  <defs>
+    <filter id="grain" x="-10%" y="-10%" width="120%" height="120%">
+      <feTurbulence type="fractalNoise" baseFrequency="0.75" numOctaves="3" seed="17" result="noise"/>
+      <feColorMatrix in="noise" type="saturate" values="0" result="gray"/>
+      <feComponentTransfer in="gray" result="fade">
+        <feFuncA type="table" tableValues="0 0.18"/>
+      </feComponentTransfer>
+      <feBlend in="SourceGraphic" in2="fade" mode="screen"/>
+    </filter>
+    <filter id="rough" x="-5%" y="-20%" width="110%" height="140%">
+      <feTurbulence type="fractalNoise" baseFrequency="0.035 0.22" numOctaves="2" seed="4" result="n"/>
+      <feDisplacementMap in="SourceGraphic" in2="n" scale="3" xChannelSelector="R" yChannelSelector="G"/>
+    </filter>
+    <style>
+      .sans{font-family:"Arial Narrow","Helvetica Neue",Arial,sans-serif}
+      .mono{font-family:"JetBrains Mono",ui-monospace,SFMono-Regular,Menlo,Consolas,monospace}
+    </style>
+  </defs>
+
+  <rect width="1200" height="360" fill="#090909"/>
+  <rect x="18" y="18" width="1164" height="324" fill="none" stroke="#353535" stroke-width="1"/>
+
+  <g opacity="0.55">
+    <path d="M0 66 H1200" stroke="#222"/>
+    <path d="M0 294 H1200" stroke="#222"/>
+    <path d="M190 0 V360" stroke="#181818"/>
+    <path d="M1010 0 V360" stroke="#181818"/>
+  </g>
+
+  <!-- paper fragments -->
+  <g filter="url(#rough)">
+    <path d="M70 74 L730 62 L744 214 L82 226 Z" fill="#eeeeea"/>
+    <path d="M760 86 L1116 82 L1110 248 L770 254 Z" fill="#151515" stroke="#4a4a4a"/>
+  </g>
+
+  <!-- tape -->
+  <g opacity="0.88">
+    <rect x="111" y="52" width="112" height="24" transform="rotate(-5 111 52)" fill="#454545"/>
+    <rect x="655" y="51" width="98" height="24" transform="rotate(4 655 51)" fill="#343434"/>
+    <rect x="954" y="232" width="106" height="22" transform="rotate(-3 954 232)" fill="#393939"/>
+  </g>
+
+  <!-- title -->
+  <g class="sans">
+    <text x="106" y="128" fill="#111" font-size="22" font-weight="700" letter-spacing="4">WEB ENGINEER / SOFTWARE DEVELOPER</text>
+    <text x="104" y="184" fill="#0a0a0a" font-size="59" font-weight="900" letter-spacing="-1.5">BENJAMIN GONZALES</text>
+    <text x="108" y="211" fill="#444" font-size="17" font-weight="700" letter-spacing="3">JAVA · WEB · LINUX · SYSTEMS</text>
+  </g>
+
+  <!-- right side zine notes -->
+  <g class="mono">
+    <text x="794" y="119" fill="#f2f2ef" font-size="16" font-weight="700">CURRENT ROTATION</text>
+    <text x="794" y="151" fill="#a9a9a6" font-size="14">01  JAVA</text>
+    <text x="794" y="177" fill="#a9a9a6" font-size="14">02  WEB DEVELOPMENT</text>
+    <text x="794" y="203" fill="#a9a9a6" font-size="14">03  ARCH / HYPRLAND</text>
+    <text x="794" y="229" fill="#a9a9a6" font-size="14">04  RUST — NEXT</text>
+  </g>
+
+  <!-- post-hardcore marks -->
+  <g fill="none" stroke="#b62828" stroke-width="3">
+    <path d="M43 113 l24 24 M67 113 l-24 24"/>
+    <path d="M1133 50 l19 19 M1152 50 l-19 19"/>
+    <path d="M729 270 C795 244 862 294 929 267 S1057 242 1143 275"/>
+  </g>
+  <rect x="72" y="272" width="594" height="5" fill="#b62828"/>
+
+  <!-- barcode / issue marks -->
+  <g fill="#d8d8d4">
+    <rect x="79" y="300" width="3" height="28"/>
+    <rect x="87" y="300" width="7" height="28"/>
+    <rect x="100" y="300" width="2" height="28"/>
+    <rect x="107" y="300" width="5" height="28"/>
+    <rect x="118" y="300" width="9" height="28"/>
+    <rect x="133" y="300" width="3" height="28"/>
+    <rect x="142" y="300" width="6" height="28"/>
+    <rect x="154" y="300" width="2" height="28"/>
+    <rect x="161" y="300" width="8" height="28"/>
+  </g>
+  <text x="184" y="321" class="mono" fill="#858582" font-size="12">BENGONZALESDR // ISSUE 001 // BUILT TO BE REVISED</text>
+  <text x="1122" y="324" text-anchor="end" class="mono" fill="#555" font-size="11">NO PRESETS / NO MAGIC</text>
+
+  <rect width="1200" height="360" fill="transparent" filter="url(#grain)" opacity="0.45"/>
+</svg>
