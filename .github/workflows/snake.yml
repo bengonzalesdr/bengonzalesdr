@@ -28,6 +28,7 @@ jobs:
       - name: Publish output branch
         shell: bash
         run: |
+          sudo chown -R "$(id -u):$(id -g)" dist
           cd dist
           git init
           git config user.name "github-actions[bot]"
