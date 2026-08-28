@@ -1,170 +1,156 @@
 <div align="center">
-  <img src="./assets/profile-hero-v4.jpg" width="100%" alt="Benjamin Gonzales — Web Engineer and Software Developer" />
+
+<img src="https://readme-typing-svg.demolab.com?font=DM+Sans&weight=500&size=28&duration=2600&pause=1200&color=8B949E&center=true&vCenter=true&width=720&height=70&lines=hello%2C+i%27m+benjamin.;hola%2C+soy+benjamin.;web+engineer+%C2%B7+software+developer." alt="Animated greeting" />
+
+# BENJAMIN GONZALES
+
+**Web Engineer · Software Developer · Founder, Synistar LLC**
+
+`Lexington → Lincoln → Portland`
+
+[GitHub](https://github.com/bengonzalesdr) · [LinkedIn](https://www.linkedin.com/in/bengdr/) · [Synistar](https://synistar.com) · [dot.cards](https://dot.cards/bengonzalesdr)
+
 </div>
 
-<p align="right"><sub>BG-DR / 2026 &nbsp;·&nbsp; LEXINGTON → LINCOLN → PORTLAND</sub></p>
+<p align="center">┈┈┈┈┈ ◇ ┈┈┈┈┈</p>
 
-<br>
+# ╱ ABOUT
 
-<strong>I build software for real organizations.</strong> Most of it lives behind client logins, production servers, and boring maintenance tasks that matter more than they look like they should.
+I build and maintain **real production web systems**, then spend the rest of my time learning the layers underneath them — application development, databases, Linux, infrastructure, and whatever else I decide to take apart next.
 
-The rest of the time I am usually somewhere between Java, .NET, databases, Linux, a shader file, an unnecessarily customized desktop, or a project that did not need to exist until I decided it did.
+Java and web development are home base. C#/.NET, SQL, Linux, and systems work are always somewhere nearby.
 
-<p align="right"><em>you probably found me through a client website, a Linux screenshot, a Minecraft shader, or a very specific search.</em></p>
+**English / Español** · Nebraska · Portland
 
-<p align="right"><sub>ENGLISH / ESPAÑOL &nbsp;·&nbsp; NEBRASKA-BORN &nbsp;·&nbsp; INTERNET-RAISED</sub></p>
+---
 
+# ╱ SCHOOLS
+
+<table>
+<tr>
+<td width="50%" align="center" valign="middle">
+<a href="https://www.southeast.edu/">
+<img src="https://nativecoalition.unl.edu/sites/unl.edu.ianr.extension.native-american-coalition/files/styles/4_3_720x540/public/media/image/SCC.png?itok=MoKAu6nE" height="82" alt="Southeast Community College" />
+</a>
 <br><br>
+<strong>Southeast Community College</strong><br>
+<sub>Applications Development</sub>
+</td>
+<td width="50%" align="center" valign="middle">
+<a href="https://www.pdx.edu/">
+<img src="https://d2lk14jtvqry1q.cloudfront.net/media/large_Portland_State_University_Portland_04d2e3aadd_2a51da0c8e.png" height="82" alt="Portland State University" />
+</a>
+<br><br>
+<strong>Portland State University</strong><br>
+<sub>Portland, Oregon</sub>
+</td>
+</tr>
+</table>
 
-<p><sub>EDUCATION / GEOGRAPHY</sub></p>
+<p align="center"><sub>SCC ────────── PSU</sub></p>
 
-<div align="center">
-  <a href="https://www.southeast.edu/">
-    <img src="https://nativecoalition.unl.edu/sites/unl.edu.ianr.extension.native-american-coalition/files/styles/4_3_720x540/public/media/image/SCC.png?itok=MoKAu6nE" height="76" alt="Southeast Community College" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.pdx.edu/">
-    <img src="https://d2lk14jtvqry1q.cloudfront.net/media/large_Portland_State_University_Portland_04d2e3aadd_2a51da0c8e.png" height="76" alt="Portland State University" />
-  </a>
-</div>
+---
+
+# ╱ STACK
 
 <p align="center">
-  <sub>SOUTHEAST COMMUNITY COLLEGE &nbsp;/&nbsp; APPLICATIONS DEVELOPMENT</sub><br>
-  <sub>PORTLAND STATE UNIVERSITY &nbsp;/&nbsp; PORTLAND, OREGON</sub>
+<img height="32" width="32" src="https://cdn.simpleicons.org/openjdk/8b949e" alt="Java" title="Java" />&nbsp;&nbsp;&nbsp;
+<img height="32" width="32" src="https://cdn.simpleicons.org/dotnet/8b949e" alt=".NET" title="C# / .NET" />&nbsp;&nbsp;&nbsp;
+<img height="32" width="32" src="https://cdn.simpleicons.org/html5/8b949e" alt="HTML5" title="HTML5" />&nbsp;&nbsp;&nbsp;
+<img height="32" width="32" src="https://cdn.simpleicons.org/css/8b949e" alt="CSS" title="CSS" />&nbsp;&nbsp;&nbsp;
+<img height="32" width="32" src="https://cdn.simpleicons.org/javascript/8b949e" alt="JavaScript" title="JavaScript" />&nbsp;&nbsp;&nbsp;
+<img height="32" width="32" src="https://cdn.simpleicons.org/php/8b949e" alt="PHP" title="PHP" />&nbsp;&nbsp;&nbsp;
+<img height="32" width="32" src="https://cdn.simpleicons.org/mysql/8b949e" alt="MySQL" title="MySQL" />&nbsp;&nbsp;&nbsp;
+<img height="32" width="32" src="https://cdn.simpleicons.org/python/8b949e" alt="Python" title="Python" />
+<br><br>
+<img height="32" width="32" src="https://cdn.simpleicons.org/gnubash/8b949e" alt="Bash" title="Bash" />&nbsp;&nbsp;&nbsp;
+<img height="32" width="32" src="https://cdn.simpleicons.org/git/8b949e" alt="Git" title="Git" />&nbsp;&nbsp;&nbsp;
+<img height="32" width="32" src="https://cdn.simpleicons.org/docker/8b949e" alt="Docker" title="Docker" />&nbsp;&nbsp;&nbsp;
+<img height="32" width="32" src="https://cdn.simpleicons.org/linux/8b949e" alt="Linux" title="Linux" />&nbsp;&nbsp;&nbsp;
+<img height="32" width="32" src="https://cdn.simpleicons.org/archlinux/8b949e" alt="Arch Linux" title="Arch Linux" />&nbsp;&nbsp;&nbsp;
+<img height="32" width="32" src="https://cdn.simpleicons.org/rust/8b949e" alt="Rust" title="Rust" />
 </p>
 
-<p align="right"><sub>SMALL-TOWN NEBRASKA, BIGGER SYSTEMS, SAME INTERNET CONNECTION.</sub></p>
+**Application** ─ Java · C# / .NET  
+**Web** ─ HTML · CSS · JavaScript · PHP  
+**Data** ─ MySQL · SQL  
+**Systems** ─ Linux · Bash · Git · Docker  
+**Next** ─ Rust ↗
 
-<br><br>
+---
 
-<div align="center">
-  <img src="./assets/archive-strip-v4.jpg" width="100%" alt="Benjamin Gonzales archive strip" />
-</div>
+# ╱ IDEs
 
-<br><br>
+<table>
+<tr>
+<td align="center" width="25%">
+<img height="38" width="38" src="https://cdn.simpleicons.org/intellijidea/8b949e" alt="IntelliJ IDEA" />
+<br><strong>IntelliJ IDEA</strong><br><sub>Java</sub>
+</td>
+<td align="center" width="25%">
+<img height="38" width="38" src="https://cdn.simpleicons.org/visualstudio/8b949e" alt="Visual Studio" />
+<br><strong>Visual Studio</strong><br><sub>C# / .NET</sub>
+</td>
+<td align="center" width="25%">
+<img height="38" width="38" src="https://cdn.simpleicons.org/datagrip/8b949e" alt="DataGrip" />
+<br><strong>DataGrip</strong><br><sub>SQL / MySQL</sub>
+</td>
+<td align="center" width="25%">
+<img height="38" width="38" src="https://cdn.simpleicons.org/visualstudiocode/8b949e" alt="Visual Studio Code" />
+<br><strong>VS Code</strong><br><sub>Web / scripting</sub>
+</td>
+</tr>
+</table>
 
-<p><sub>SELECTED WORK / THE STUFF PEOPLE ACTUALLY USE</sub></p>
+<p align="center"><sub>Omarchy · Arch Linux · Hyprland · Wayland · Kitty</sub></p>
+
+---
+
+# ╱ SELECTED WORK
+
+**◇ [Synistar](https://synistar.com)**  
+Web systems · client infrastructure · maintenance
+
+**◇ [Newsbuddy](https://www.newsbuddy.org)**  
+Publishing systems · regional news · workflow automation
+
+**◇ [CATR](https://catrcat.com)**  
+Nonprofit web · custom administration · interactive work
+
+**◇ [Lex Majestic](https://lexmajestic.org)**  
+Movies · showtimes · theater operations · administration · payments
+
+**◇ [Blinged by Brina](https://www.blingedbybrina.com)**  
+Booking · payments · notifications · service-business workflow
+
+**◇ [FRAE Inc](https://www.fraeinc.com)**  
+Production web development · ongoing maintenance
+
+<sub>Most client source stays private. The output does not.</sub>
+
+---
+
+# ╱ PUBLIC CODE
+
+[Human Typing Simulator](https://github.com/bengonzalesdr/Human-Typing-Simulator) ↗  
+[College Credit Calculator for Graduation](https://github.com/bengonzalesdr/College-Credit-Calculator-for-Graduation) ↗  
+[Miles per Gallon Calculator](https://github.com/bengonzalesdr/Miles-per-Gallon-Calulator) ↗  
+[Tax and Tip Calculator](https://github.com/bengonzalesdr/Tax-and-Tip-Calculator) ↗
+
+---
+
+# ╱ ELSEWHERE
 
 <p>
-  <sup>001</sup>&nbsp;&nbsp;<strong><a href="https://synistar.com">SYNISTAR</a></strong><br>
-  <sub>WEB SYSTEMS / CLIENT INFRASTRUCTURE / MAINTENANCE / WHERE MOST OF THE PRODUCTION WORK LIVES</sub>
+<a href="https://github.com/bengonzalesdr"><img height="28" width="28" src="https://cdn.simpleicons.org/github/8b949e" alt="GitHub" /></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/bengdr/"><img height="28" width="28" src="https://cdn.simpleicons.org/linkedin/8b949e" alt="LinkedIn" /></a>
 </p>
 
-<p align="right">
-  <sup>002</sup>&nbsp;&nbsp;<strong><a href="https://www.newsbuddy.org">NEWSBUDDY</a></strong><br>
-  <sub>PUBLISHING SYSTEMS / REGIONAL NEWS / WORKFLOW AUTOMATION</sub>
-</p>
-
-<p>
-  <sup>003</sup>&nbsp;&nbsp;<strong><a href="https://catrcat.com">CATR</a></strong><br>
-  <sub>NONPROFIT WEB / CUSTOM ADMINISTRATION / INTERACTIVE WORK</sub>
-</p>
-
-<p align="right">
-  <sup>004</sup>&nbsp;&nbsp;<strong><a href="https://lexmajestic.org">LEX MAJESTIC</a></strong><br>
-  <sub>MOVIES / SHOWTIMES / THEATER OPERATIONS / ADMINISTRATION / PAYMENTS</sub>
-</p>
-
-<p>
-  <sup>005</sup>&nbsp;&nbsp;<strong><a href="https://www.blingedbybrina.com">BLINGED BY BRINA</a></strong><br>
-  <sub>BOOKING LOGIC / PAYMENTS / NOTIFICATIONS / SERVICE-BUSINESS WORKFLOW</sub>
-</p>
-
-<p align="right">
-  <sup>006</sup>&nbsp;&nbsp;<strong><a href="https://www.fraeinc.com">FRAE INC</a></strong><br>
-  <sub>PRODUCTION WEB / SERVICE-BUSINESS INFRASTRUCTURE / ONGOING DEVELOPMENT</sub>
-</p>
-
-<p><sub>MOST CLIENT SOURCE STAYS PRIVATE. THE OUTPUT DOES NOT.</sub></p>
-
-<br><br>
-
-<p align="right"><sub>ORBIT / THINGS I KEEP OPENING</sub></p>
-
-<p align="center">
-  <img height="24" width="24" src="https://cdn.simpleicons.org/openjdk/b8b8b8" alt="Java" title="Java" />&nbsp;&nbsp;&nbsp;
-  <img height="24" width="24" src="https://cdn.simpleicons.org/dotnet/b8b8b8" alt=".NET" title="C# / .NET" />&nbsp;&nbsp;&nbsp;
-  <img height="24" width="24" src="https://cdn.simpleicons.org/html5/b8b8b8" alt="HTML5" title="HTML5" />&nbsp;&nbsp;&nbsp;
-  <img height="24" width="24" src="https://cdn.simpleicons.org/css/b8b8b8" alt="CSS" title="CSS" />&nbsp;&nbsp;&nbsp;
-  <img height="24" width="24" src="https://cdn.simpleicons.org/javascript/b8b8b8" alt="JavaScript" title="JavaScript" />&nbsp;&nbsp;&nbsp;
-  <img height="24" width="24" src="https://cdn.simpleicons.org/php/b8b8b8" alt="PHP" title="PHP" />&nbsp;&nbsp;&nbsp;
-  <img height="24" width="24" src="https://cdn.simpleicons.org/mysql/b8b8b8" alt="MySQL" title="MySQL" />&nbsp;&nbsp;&nbsp;
-  <img height="24" width="24" src="https://cdn.simpleicons.org/python/b8b8b8" alt="Python" title="Python" />&nbsp;&nbsp;&nbsp;
-  <img height="24" width="24" src="https://cdn.simpleicons.org/gnubash/b8b8b8" alt="Bash" title="Bash" />&nbsp;&nbsp;&nbsp;
-  <img height="24" width="24" src="https://cdn.simpleicons.org/git/b8b8b8" alt="Git" title="Git" />&nbsp;&nbsp;&nbsp;
-  <img height="24" width="24" src="https://cdn.simpleicons.org/docker/b8b8b8" alt="Docker" title="Docker" />&nbsp;&nbsp;&nbsp;
-  <img height="24" width="24" src="https://cdn.simpleicons.org/linux/b8b8b8" alt="Linux" title="Linux" />&nbsp;&nbsp;&nbsp;
-  <img height="24" width="24" src="https://cdn.simpleicons.org/archlinux/b8b8b8" alt="Arch Linux" title="Arch Linux" />&nbsp;&nbsp;&nbsp;
-  <img height="24" width="24" src="https://cdn.simpleicons.org/rust/b8b8b8" alt="Rust" title="Rust" />
-</p>
-
-<p align="center"><sub>JAVA / C# .NET / SQL / PHP / JAVASCRIPT / PYTHON / BASH / GIT / DOCKER / LINUX / RUST ↗</sub></p>
+**GitHub** ─ [@bengonzalesdr](https://github.com/bengonzalesdr)  
+**LinkedIn** ─ [bengdr](https://www.linkedin.com/in/bengdr/)  
+**Synistar** ─ [synistar.com](https://synistar.com)  
+**dot.cards** ─ [bengonzalesdr](https://dot.cards/bengonzalesdr)
 
 <br>
 
-<p>
-  <img height="21" width="21" src="https://cdn.simpleicons.org/intellijidea/b8b8b8" alt="IntelliJ IDEA" />&nbsp; <strong>IntelliJ IDEA</strong> &nbsp;·&nbsp; Java<br>
-  <img height="21" width="21" src="https://cdn.simpleicons.org/visualstudio/b8b8b8" alt="Visual Studio" />&nbsp; <strong>Visual Studio</strong> &nbsp;·&nbsp; C# / .NET<br>
-  <img height="21" width="21" src="https://cdn.simpleicons.org/datagrip/b8b8b8" alt="DataGrip" />&nbsp; <strong>DataGrip</strong> &nbsp;·&nbsp; SQL / MySQL<br>
-  <img height="21" width="21" src="https://cdn.simpleicons.org/visualstudiocode/b8b8b8" alt="Visual Studio Code" />&nbsp; <strong>VS Code</strong> &nbsp;·&nbsp; web / scripting / quick edits
-</p>
-
-<p align="right"><sub>OMARCHY / ARCH LINUX / HYPRLAND / WAYLAND / KITTY</sub></p>
-
-<br><br>
-
-<p><sub>RECURRING SUBJECTS / IF YOU HAVE BEEN HERE BEFORE</sub></p>
-
-<p>
-<strong>Linux desktops</strong> &nbsp;·&nbsp; obscure interfaces &nbsp;·&nbsp; old software &nbsp;·&nbsp; databases &nbsp;·&nbsp; self-hosting<br>
-<strong>Minecraft shaders</strong> &nbsp;·&nbsp; forever worlds &nbsp;·&nbsp; film grain &nbsp;·&nbsp; tiny UI details nobody asked me to notice<br>
-<strong>small-town Nebraska</strong> &nbsp;·&nbsp; Portland &nbsp;·&nbsp; client websites &nbsp;·&nbsp; too many side projects
-</p>
-
-<p align="right"><em>Rust is next. Linux is never really finished.</em></p>
-
-<br><br>
-
-<p align="right"><sub>PUBLIC SOURCE / THE PART THAT ISN'T BEHIND A CLIENT LOGIN</sub></p>
-
-<p align="right">
-  <a href="https://github.com/bengonzalesdr/Human-Typing-Simulator">Human Typing Simulator</a><br>
-  <a href="https://github.com/bengonzalesdr/College-Credit-Calculator-for-Graduation">College Credit Calculator for Graduation</a><br>
-  <a href="https://github.com/bengonzalesdr/Miles-per-Gallon-Calulator">Miles per Gallon Calculator</a><br>
-  <a href="https://github.com/bengonzalesdr/Tax-and-Tip-Calculator">Tax and Tip Calculator</a>
-</p>
-
-<br>
-
-<details>
-<summary><sub>MARGINALIA / OPEN IF CURIOUS</sub></summary>
-<br>
-
-- from Lexington, Nebraska
-- bilingual: English / Spanish
-- builds client websites, then keeps building things after the client work is done
-- will spend too long changing a desktop, shader, workflow, or tiny UI detail nobody else noticed
-- prefers software that can be inspected instead of worshipped
-- has almost definitely started another project since this sentence was written
-
-</details>
-
-<br><br>
-
-<p><sub>ELSEWHERE / SAME PERSON, DIFFERENT TAB</sub></p>
-
-<p>
-  <a href="https://github.com/bengonzalesdr"><img height="22" width="22" src="https://cdn.simpleicons.org/github/b8b8b8" alt="GitHub" /></a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/bengdr/"><img height="22" width="22" src="https://cdn.simpleicons.org/linkedin/b8b8b8" alt="LinkedIn" /></a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/bengonzalesdr">GitHub</a> &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/bengdr/">LinkedIn</a> &nbsp;·&nbsp;
-  <a href="https://synistar.com">Synistar</a> &nbsp;·&nbsp;
-  <a href="https://dot.cards/bengonzalesdr">dot.cards</a>
-</p>
-
-<br><br>
-
-<div align="center">
-  <img src="./assets/footer-strip-v4.jpg" width="100%" alt="The internet is a small town — Benjamin Gonzales" />
-</div>
+<p align="center">╱╱╱ &nbsp; BUILD THINGS THAT HOLD UP. &nbsp; ╲╲╲</p>
