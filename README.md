@@ -101,7 +101,7 @@ My work spans application development, web engineering, databases, Linux, and in
 
 **Synistar** builds custom websites and digital systems for small businesses and organizations. My work covers the full lifecycle: discovery, architecture, UI/UX, front-end and back-end development, databases, integrations, hosting, automation, performance, deployment, maintenance, and long-term support.
 
-[Visit Synistar ↗](https://synistar.com) · [View the work ↗](https://synistar.com/our-work/)
+[Visit Synistar ↗](https://synistar.com) · [View the work ↗](https://synistar.com/portfolio)
 
 ---
 
