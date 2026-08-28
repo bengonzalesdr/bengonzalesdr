@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="440" viewBox="0 0 1200 440" role="img" aria-labelledby="title desc">
+  <title id="title">Benjamin Gonzales — signal terminal</title>
+  <desc id="desc">A monochrome CRT-inspired terminal banner for web engineer and software developer Benjamin Gonzales.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#050607"/>
+      <stop offset="0.55" stop-color="#0b0d10"/>
+      <stop offset="1" stop-color="#050607"/>
+    </linearGradient>
+    <radialGradient id="fogA" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#d8dee9" stop-opacity=".08"/>
+      <stop offset="1" stop-color="#d8dee9" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="fogB" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#ffffff" stop-opacity=".045"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse">
+      <path d="M48 0H0V48" fill="none" stroke="#ffffff" stroke-opacity=".024"/>
+    </pattern>
+    <pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse">
+      <rect width="4" height="1" fill="#ffffff" opacity=".035"/>
+    </pattern>
+    <filter id="soft" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="32"/>
+    </filter>
+    <clipPath id="clip"><rect width="1200" height="440" rx="24"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#clip)">
+    <rect width="1200" height="440" fill="url(#bg)"/>
+    <rect width="1200" height="440" fill="url(#grid)"/>
+    <ellipse cx="895" cy="154" rx="310" ry="195" fill="url(#fogA)" filter="url(#soft)"/>
+    <ellipse cx="250" cy="410" rx="360" ry="150" fill="url(#fogB)" filter="url(#soft)"/>
+
+    <rect x="26" y="24" width="1148" height="392" rx="20" fill="#07090b" fill-opacity=".78" stroke="#343a40" stroke-width="1.5"/>
+    <rect x="26" y="24" width="1148" height="48" rx="20" fill="#111418"/>
+    <rect x="26" y="48" width="1148" height="24" fill="#111418"/>
+    <circle cx="52" cy="48" r="5" fill="#5d646d"/>
+    <circle cx="71" cy="48" r="5" fill="#8b949e"/>
+    <circle cx="90" cy="48" r="5" fill="#c9d1d9"/>
+
+    <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, Liberation Mono, monospace">
+      <text x="116" y="54" font-size="12" fill="#6e7681" letter-spacing="1.6">TTY-07 / PROFILE SESSION</text>
+      <text x="1144" y="54" text-anchor="end" font-size="12" fill="#8b949e" letter-spacing="1.4">UPLINK::GITHUB // ONLINE</text>
+
+      <text x="70" y="116" font-size="13" fill="#6e7681" letter-spacing="2.8">IDENTITY / SIGNAL SOURCE</text>
+      <text x="68" y="174" font-size="45" font-weight="800" fill="#f0f3f6" letter-spacing="1">BENJAMIN GONZALES</text>
+      <text x="70" y="208" font-size="17" fill="#a8b0ba">WEB ENGINEER  /  SOFTWARE DEVELOPER</text>
+
+      <text x="70" y="257" font-size="14" fill="#6e7681">$ ./profile --attach --mode=build</text>
+      <text x="70" y="291" font-size="15" fill="#d0d7de">[OK] JAVA</text>
+      <text x="220" y="291" font-size="15" fill="#d0d7de">[OK] WEB</text>
+      <text x="358" y="291" font-size="15" fill="#d0d7de">[OK] LINUX</text>
+      <text x="505" y="291" font-size="15" fill="#d0d7de">[UP] .NET</text>
+      <text x="70" y="331" font-size="14" fill="#8b949e">signal:// fog + static + dark interfaces + useful software</text>
+      <text x="70" y="372" font-size="14" fill="#b6bec8">ben@signal:~$</text>
+      <rect x="191" y="358" width="10" height="17" fill="#e6edf3">
+        <animate attributeName="opacity" values="1;1;0;0;1" dur="1.05s" repeatCount="indefinite"/>
+      </rect>
+
+      <rect x="732" y="112" width="374" height="222" rx="14" fill="#0b0e11" stroke="#2d333b"/>
+      <text x="760" y="144" font-size="12" fill="#6e7681" letter-spacing="2">SIGNAL SCOPE / 24H</text>
+      <path d="M760 270 L792 258 L824 276 L856 212 L888 230 L920 178 L952 196 L984 158 L1016 190 L1048 148 L1078 168" fill="none" stroke="#c9d1d9" stroke-width="2" opacity=".72"/>
+      <path d="M760 292H1078M760 242H1078M760 192H1078" stroke="#ffffff" stroke-opacity=".045"/>
+      <path d="M812 158V296M916 158V296M1020 158V296" stroke="#ffffff" stroke-opacity=".035"/>
+      <circle cx="1078" cy="168" r="5" fill="#f0f3f6">
+        <animate attributeName="r" values="4;7;4" dur="2.1s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="1;.35;1" dur="2.1s" repeatCount="indefinite"/>
+      </circle>
+      <text x="760" y="318" font-size="11" fill="#565e68">NOISE FLOOR: LOW      BUILD CHANNEL: OPEN</text>
+
+      <text x="1140" y="392" text-anchor="end" font-size="11" fill="#434a53" letter-spacing="1.6">NOCTURNE / REV.02</text>
+    </g>
+
+    <rect width="1200" height="440" fill="url(#scan)" opacity=".8"/>
+    <rect x="-210" y="24" width="130" height="392" fill="#ffffff" opacity=".018" transform="skewX(-13)">
+      <animate attributeName="x" from="-210" to="1310" dur="8.5s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="0" y="0" width="1200" height="440" rx="24" fill="none" stroke="#30363d" stroke-width="2"/>
+  </g>
+</svg>
