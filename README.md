@@ -1,133 +1,143 @@
 <div align="center">
 
-<img src="./assets/noir-header.svg" width="100%" alt="Benjamin Gonzales — Web Engineer, Software Developer, Linux Enthusiast" />
+<img src="./assets/post-hardcore-header.svg" width="100%" alt="Benjamin Gonzales — Web Engineer, Software Developer, Linux Enthusiast" />
 
 <br>
 
-<a href="https://github.com/bengonzalesdr"><kbd>GitHub ↗</kbd></a>&nbsp;
-<a href="https://www.linkedin.com/in/bengdr/"><kbd>LinkedIn ↗</kbd></a>&nbsp;
-<a href="https://dot.cards/bengonzalesdr"><kbd>dot.cards ↗</kbd></a>
+<a href="https://github.com/bengonzalesdr"><img src="https://img.shields.io/badge/GITHUB-bengonzalesdr-0b0b0b?style=flat-square&logo=github&logoColor=white" alt="GitHub — bengonzalesdr" /></a>
+<a href="https://www.linkedin.com/in/bengdr/"><img src="https://img.shields.io/badge/LINKEDIN-bengdr-242424?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn — bengdr" /></a>
+<a href="https://dot.cards/bengonzalesdr"><img src="https://img.shields.io/badge/DOT.CARDS-bengonzalesdr-454545?style=flat-square" alt="dot.cards — bengonzalesdr" /></a>
 
 <br><br>
 
-<sub><strong>JAVA</strong> &nbsp;·&nbsp; WEB DEVELOPMENT &nbsp;·&nbsp; LINUX &nbsp;·&nbsp; SYSTEMS</sub>
+<sub><strong>WEB ENGINEER</strong> · SOFTWARE DEVELOPER · LINUX ENTHUSIAST</sub>
 
 </div>
 
 <br>
 
+> ### *build things. break things. understand them. rebuild them better.*
+> Java is my main language. The web is where I build most often. Linux is where I go when I want to understand what is actually happening underneath it all.
+
+---
+
+## ✦ about
+
+I build software for the web, spend a lot of time in Linux, and care about the part of development that happens **below the abstraction**.
+
+My main language is **Java**. My everyday web stack is **HTML, CSS, JavaScript, and PHP**, with **Python** mostly used for scripting and tooling. I also work with **C# / .NET** and **MySQL**, and **Rust** is next on the list.
+
+---
+
+## ✦ stack
+
+<sub>LANGUAGES / WEB / DATA</sub>
+
+<p>
+  <img src="https://img.shields.io/badge/Java-0b0b0b?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/HTML5-151515?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1f1f1f?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-292929?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/PHP-333333?style=flat-square&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/Python-3d3d3d?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C%23_.NET-474747?style=flat-square&logo=dotnet&logoColor=white" alt="C# and .NET" />
+  <img src="https://img.shields.io/badge/MySQL-515151?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+</p>
+
+<sub>SYSTEMS / TOOLING</sub>
+
+<p>
+  <img src="https://img.shields.io/badge/Arch_Linux-0b0b0b?style=flat-square&logo=archlinux&logoColor=white" alt="Arch Linux" />
+  <img src="https://img.shields.io/badge/Hyprland-161616?style=flat-square&logo=wayland&logoColor=white" alt="Hyprland" />
+  <img src="https://img.shields.io/badge/Wayland-222222?style=flat-square&logo=wayland&logoColor=white" alt="Wayland" />
+  <img src="https://img.shields.io/badge/Kitty-2e2e2e?style=flat-square&logo=gnubash&logoColor=white" alt="Kitty" />
+  <img src="https://img.shields.io/badge/Bash-3a3a3a?style=flat-square&logo=gnubash&logoColor=white" alt="Bash" />
+  <img src="https://img.shields.io/badge/Git-464646?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Docker-525252?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Proxmox-5e5e5e?style=flat-square&logo=proxmox&logoColor=white" alt="Proxmox" />
+</p>
+
+> 🦀 **currently learning:** `Rust`
+
+---
+
+## ✦ preferred workspace
+
 <table>
 <tr>
-<td width="62%" valign="top">
+<td width="50%" valign="top">
 
-## 01 // PROFILE
+<a href="https://www.jetbrains.com/idea/"><img src="https://img.shields.io/badge/IntelliJ_IDEA-111111?style=for-the-badge&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA" /></a>
 
-I build software for the web, spend a lot of time in Linux, and like understanding what is happening underneath the abstraction.
-
-**Java is my main language.** Web development is my everyday workflow, while Linux and the home lab are where I get closer to the systems underneath it all.
+**Java**  
+Primary IDE for Java development.
 
 </td>
-<td width="38%" valign="top">
+<td width="50%" valign="top">
 
-## STATUS
+<a href="https://visualstudio.microsoft.com/"><img src="https://img.shields.io/badge/Visual_Studio-2b2b2b?style=for-the-badge&logo=visualstudio&logoColor=white" alt="Visual Studio" /></a>
 
-**main** &nbsp; `Java`  
-**working in** &nbsp; `Web`  
-**daily system** &nbsp; `Arch Linux`  
-**learning next** &nbsp; `Rust`  
-**lab** &nbsp; `Proxmox + Docker`
+**C# / .NET**  
+My preferred environment for .NET work.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<a href="https://www.jetbrains.com/datagrip/"><img src="https://img.shields.io/badge/DataGrip-3d3d3d?style=for-the-badge&logo=datagrip&logoColor=white" alt="DataGrip" /></a>
+
+**SQL / MySQL**  
+Database work and query development.
+
+</td>
+<td width="50%" valign="top">
+
+<a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/VS_Code-505050?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code" /></a>
+
+**HTML · CSS · JavaScript · PHP · Python**  
+Web work, scripting, and smaller edits.
 
 </td>
 </tr>
 </table>
 
-<br>
+---
 
-## 02 // TOOLBOX
+## ✦ system
 
-### `LANGUAGES`
+**ARCH LINUX** — daily OS  
+**OMARCHY** — starting point, heavily re-opinionated  
+**HYPRLAND** — compositor  
+**WAYLAND** — display stack  
+**KITTY** — terminal
 
-`☕ Java` &nbsp; `HTML` &nbsp; `CSS` &nbsp; `JavaScript` &nbsp; `PHP` &nbsp; `Python` &nbsp; `C# / .NET` &nbsp; `SQL / MySQL`
+<sub>good defaults are useful. keeping them untouched is optional.</sub>
 
-### `SYSTEMS + TOOLS`
+---
 
-`Arch Linux` &nbsp; `Linux` &nbsp; `Hyprland` &nbsp; `Wayland` &nbsp; `Kitty` &nbsp; `Bash` &nbsp; `Git` &nbsp; `GitHub` &nbsp; `Docker` &nbsp; `Proxmox`
+## ✦ home lab
 
-> **NEXT UP //** 🦀 `Rust`
+**MINI PC** — lab node  
+**PROXMOX** — virtualization  
+**DOCKER** — containers  
+**LINUX VMs** — experimentation and systems work  
+**TCP/IP · DNS · DHCP** — networking fundamentals
 
-<br>
-
-## 03 // WORKSPACE
-
-<table>
-<tr>
-<th align="left">IDE</th>
-<th align="left">LANGUAGE / WORKFLOW</th>
-</tr>
-<tr>
-<td><a href="https://www.jetbrains.com/idea/"><strong>IntelliJ IDEA ↗</strong></a></td>
-<td><code>Java</code></td>
-</tr>
-<tr>
-<td><a href="https://visualstudio.microsoft.com/"><strong>Visual Studio ↗</strong></a></td>
-<td><code>C# / .NET</code></td>
-</tr>
-<tr>
-<td><a href="https://www.jetbrains.com/datagrip/"><strong>DataGrip ↗</strong></a></td>
-<td><code>SQL / MySQL</code></td>
-</tr>
-<tr>
-<td><a href="https://code.visualstudio.com/"><strong>VS Code ↗</strong></a></td>
-<td><code>HTML · CSS · JavaScript · PHP · Python</code></td>
-</tr>
-</table>
-
-<br>
-
-## 04 // SYSTEM
-
-```text
-╭─ environment ─────────────────────────────────────────────╮
-│ OS          Arch Linux                                   │
-│ BASE        Omarchy — heavily re-opinionated             │
-│ COMPOSITOR  Hyprland                                     │
-│ DISPLAY     Wayland                                      │
-│ TERMINAL    Kitty                                        │
-╰───────────────────────────────────────────────────────────╯
-```
-
-My setup starts with good defaults and gets changed until it fits the way I actually work.
-
-<br>
-
-## 05 // HOME LAB
-
-```text
-╭─ lab ─────────────────────────────────────────────────────╮
-│ NODE        BeeLink mini PC                              │
-│ PLATFORM    Proxmox                                      │
-│ WORKLOADS   Docker · Linux virtual machines              │
-│ NETWORK     TCP/IP · DNS · DHCP                          │
-│ PURPOSE     virtualization · containers · networking     │
-╰───────────────────────────────────────────────────────────╯
-```
-
-The lab is where I stop treating infrastructure like magic and start taking it apart until it makes sense.
-
-<br>
+The point of the lab is simple: stop treating infrastructure like magic.
 
 ---
 
 <div align="center">
 
-### `BUILD → BREAK → UNDERSTAND → REBUILD BETTER`
+### ✕ `JAVA / WEB / LINUX / SYSTEMS` ✕
 
-<sub>software / web / linux / systems</sub>
+<sub>built to be revised.</sub>
 
 <br><br>
 
-<a href="https://github.com/bengonzalesdr"><kbd>github.com/bengonzalesdr</kbd></a>&nbsp;
-<a href="https://www.linkedin.com/in/bengdr/"><kbd>linkedin.com/in/bengdr</kbd></a>&nbsp;
-<a href="https://dot.cards/bengonzalesdr"><kbd>dot.cards/bengonzalesdr</kbd></a>
+<a href="https://github.com/bengonzalesdr">GitHub</a> &nbsp;·&nbsp;
+<a href="https://www.linkedin.com/in/bengdr/">LinkedIn</a> &nbsp;·&nbsp;
+<a href="https://dot.cards/bengonzalesdr">dot.cards</a>
 
 </div>
