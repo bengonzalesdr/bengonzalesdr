@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-labelledby="title desc">
+  <title id="title">Benjamin Gonzales</title>
+  <desc id="desc">Minimal monochrome foggy Pacific Northwest inspired profile header.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#050505"/>
+      <stop offset="0.55" stop-color="#111111"/>
+      <stop offset="1" stop-color="#1d1d1d"/>
+    </linearGradient>
+    <linearGradient id="mist" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#d7d7d7" stop-opacity="0"/>
+      <stop offset="0.2" stop-color="#d7d7d7" stop-opacity="0.12"/>
+      <stop offset="0.5" stop-color="#f0f0f0" stop-opacity="0.2"/>
+      <stop offset="0.8" stop-color="#d7d7d7" stop-opacity="0.1"/>
+      <stop offset="1" stop-color="#d7d7d7" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="noise" x="-10%" y="-10%" width="120%" height="120%">
+      <feTurbulence type="fractalNoise" baseFrequency="0.85" numOctaves="2" seed="13" result="n"/>
+      <feColorMatrix in="n" type="saturate" values="0" result="mono"/>
+      <feComponentTransfer in="mono" result="faded"><feFuncA type="table" tableValues="0 0.08"/></feComponentTransfer>
+      <feBlend in="SourceGraphic" in2="faded" mode="screen"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="260" rx="18" fill="url(#bg)"/>
+
+  <g fill="#050505" opacity="0.95">
+    <path d="M0 210 L70 210 L70 145 L94 184 L94 128 L120 173 L120 108 L152 165 L152 126 L178 178 L178 136 L208 186 L208 149 L236 190 L236 160 L266 195 L266 210 Z"/>
+    <path d="M1200 210 L1135 210 L1135 150 L1110 184 L1110 120 L1082 174 L1082 102 L1048 166 L1048 126 L1018 178 L1018 137 L988 184 L988 150 L958 192 L958 161 L928 196 L928 210 Z"/>
+  </g>
+
+  <g fill="#141414" opacity="0.9">
+    <path d="M120 218 L164 218 L164 168 L180 194 L180 150 L199 188 L199 140 L221 181 L221 154 L241 193 L241 166 L263 199 L263 218 Z"/>
+    <path d="M1080 218 L1038 218 L1038 169 L1022 194 L1022 151 L1004 188 L1004 141 L982 181 L982 154 L962 193 L962 166 L940 199 L940 218 Z"/>
+  </g>
+
+  <rect x="0" y="150" width="1200" height="70" fill="url(#mist)"/>
+  <rect x="0" y="175" width="1200" height="42" fill="url(#mist)" opacity="0.65"/>
+
+  <g text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" fill="#f2f2f2">
+    <text x="600" y="105" font-size="54" font-weight="700" letter-spacing="1.5">Benjamin Gonzales</text>
+    <text x="600" y="140" font-size="17" letter-spacing="4" fill="#bdbdbd">WEB ENGINEER · SOFTWARE DEVELOPER · LINUX</text>
+  </g>
+
+  <line x1="330" y1="165" x2="870" y2="165" stroke="#4b4b4b" stroke-width="1"/>
+  <circle cx="600" cy="165" r="2.5" fill="#cfcfcf"/>
+  <text x="600" y="197" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" letter-spacing="2.8" fill="#8f8f8f">JAVA · WEB · SYSTEMS</text>
+
+  <rect width="1200" height="260" rx="18" fill="none" stroke="#303030"/>
+  <rect x="1" y="1" width="1198" height="258" rx="17" fill="none" stroke="#0b0b0b"/>
+  <rect width="1200" height="260" rx="18" fill="transparent" filter="url(#noise)" opacity="0.55"/>
+</svg>
